@@ -1,50 +1,78 @@
-Kebijakan Privasi Quizzhard
-Terakhir Diperbarui: 05 Mei 2026
+# Kebijakan Privasi Quizzhard
 
-Selamat datang di Quizzhard. Privasi Anda sangat penting bagi kami. Kebijakan Privasi ini menjelaskan bagaimana kami mengelola informasi di dalam aplikasi seluler kami dengan identitas paket com.ti24a5.app7.
+**Terakhir Diperbarui: 05 Mei 2026**
 
-1. Pengumpulan Informasi
-Quizzhard tidak mengumpulkan data pribadi apa pun secara paksa.
+Selamat datang di Quizzhard. Privasi Anda sangat penting bagi kami. Kebijakan Privasi ini menjelaskan bagaimana kami mengelola informasi dalam aplikasi seluler dengan identitas paket:
 
-Kami tidak mewajibkan pembuatan akun atau login untuk memainkan kuis.
+```
+com.ti24a5.app7
+```
 
-Kami tidak meminta nama, alamat email, atau informasi kontak pribadi Anda.
+---
 
-Kami hanya menggunakan layanan dasar dari Google Play Services untuk mendukung stabilitas aplikasi pada perangkat Android.
+## 1. Pengumpulan Informasi
 
-2. Penggunaan Data
-Setiap informasi yang ada atau Anda masukkan ke dalam aplikasi, seperti:
+Quizzhard tidak mengumpulkan data pribadi secara paksa.
 
-Skor Permainan
+* Tidak memerlukan akun atau login
+* Tidak meminta nama, email, atau informasi kontak pribadi
 
-Pilihan Jawaban Kuis
+Aplikasi hanya menggunakan layanan dasar dari Google Play Services untuk mendukung stabilitas dan performa pada perangkat Android.
 
-Preferensi Kategori Kuis
-Hanya digunakan sepenuhnya untuk fungsionalitas aplikasi guna memberikan pengalaman bermain yang interaktif. Data ini tidak pernah dibagikan, dijual, atau dikirimkan ke server eksternal mana pun oleh pihak pengembang.
+---
 
-3. Penyimpanan Data
-Versi Quizzhard saat ini menyimpan data secara lokal pada perangkat Anda. Ini berarti:
+## 2. Penggunaan Data
 
-Data skor atau progres kuis tersimpan di memori perangkat Anda sendiri.
+Data yang digunakan dalam aplikasi meliputi:
 
-Jika aplikasi dihapus (uninstall), maka data progres dan skor tinggi Anda mungkin akan terhapus secara permanen.
+* Skor permainan
+* Jawaban kuis
+* Preferensi kategori
 
-Kami (pengembang) tidak memiliki akses untuk melihat, mengambil, atau memulihkan data skor yang ada di perangkat Anda.
+Seluruh data tersebut:
 
-4. Keamanan
-Karena semua data bersifat lokal, keamanan informasi permainan Anda bergantung pada keamanan perangkat seluler Anda sendiri. Kami menyarankan Anda untuk selalu menjaga keamanan perangkat Anda agar data aplikasi tetap aman.
+* Digunakan hanya untuk fungsionalitas aplikasi
+* Tidak dibagikan
+* Tidak dijual
+* Tidak dikirim ke server eksternal mana pun
 
-5. Privasi Anak-Anak
-Aplikasi ini berisi konten kuis pengetahuan yang dapat dimainkan oleh berbagai kalangan. Karena kami tidak mengumpulkan informasi pribadi sensitif apa pun, Quizzhard aman digunakan oleh semua usia dan mematuhi standar privasi umum terkait pengguna di bawah umur.
+---
 
-6. Perubahan Kebijakan Ini
-Kami mungkin memperbarui Kebijakan Privasi ini dari waktu ke waktu seiring dengan penambahan fitur baru (seperti sistem leaderboard online atau sinkronisasi akun). Setiap perubahan akan diinformasikan dengan memperbarui tanggal "Terakhir Diperbarui" di bagian atas halaman ini.
+## 3. Penyimpanan Data
 
-7. Hubungi Kami
-Jika Anda memiliki pertanyaan tentang Kebijakan Privasi ini, silakan hubungi kami melalui:
+Semua data disimpan secara lokal di perangkat pengguna.
 
-Email: [kulqol71@gmail.com]
+* Data tidak disimpan di server mana pun
+* Pengembang tidak memiliki akses ke data pengguna
+* Jika aplikasi dihapus, data progres dan skor akan hilang secara permanen
 
-GitHub: [https://github.com/KholiqNurCahyo]
+---
 
-Kebijakan privasi ini dibuat untuk kepentingan proyek aplikasi Quizzhard (com.ti24a5.app7).
+## 4. Keamanan
+
+Karena data disimpan secara lokal, keamanan informasi bergantung pada perangkat pengguna. Disarankan untuk menjaga keamanan perangkat, seperti menggunakan kunci layar.
+
+---
+
+## 5. Privasi Anak-Anak
+
+Quizzhard dapat digunakan oleh semua usia karena tidak mengumpulkan informasi pribadi. Aplikasi ini mematuhi standar umum privasi untuk pengguna di bawah umur.
+
+---
+
+## 6. Perubahan Kebijakan
+
+Kebijakan Privasi ini dapat diperbarui dari waktu ke waktu, terutama jika terdapat penambahan fitur baru seperti leaderboard online atau sinkronisasi akun. Perubahan akan diinformasikan melalui pembaruan tanggal pada bagian atas dokumen.
+
+---
+
+## 7. Hubungi Kami
+
+Jika Anda memiliki pertanyaan mengenai Kebijakan Privasi ini, silakan hubungi:
+
+Email: [kulqol71@gmail.com](mailto:kulqol71@gmail.com)
+GitHub: https://github.com/KholiqNurCahyo
+
+---
+
+Dokumen ini dibuat untuk kepentingan proyek aplikasi Quizzhard (com.ti24a5.app7).
